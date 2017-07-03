@@ -1,0 +1,30 @@
+
+#ban{
+  background-image: linear-gradient(135deg, rgba(30,30,30,0.6) 10%, rgba(200,200,200,0.3) 20%), url("https://unsplash.it/1000/330?image=1080");
+  background-size: cover;
+  /*display: flex;
+  position: absolute;
+*/
+}
+
+#banner {
+  padding: 40px;
+  text-align: center;
+  color: white ;
+  margin-bottom: 45px;
+ /* align-items: center;
+  position: relative;*/
+}
+#banner h1 {
+  color:white;
+}
+
+#banner p {
+  color:white;
+  font-size:25px;
+  font-family: 'Oswald', sans-serif;
+  opacity: 0.9;
+  font-weight: lighter;
+}
+
+
